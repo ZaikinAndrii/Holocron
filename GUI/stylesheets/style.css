@@ -295,6 +295,12 @@ textarea:focus {
 .logotype-txt {
 	display: none;
 }
+.header-menu {
+	margin: 0 auto;
+}
+.header-menu__item {
+	display: inline-block;
+}
 /*HEADER END*/
 /* TEACHER INFO BEGIN */
 .teacher-info__block {
